@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+# Simple Project Manager
 
-* System dependencies
+## Overview
+Simple Project Manager is a web application developed using Ruby on Rails framework. It provides a platform for managing projects, tasks, and team collaboration in an efficient manner.
 
-* Configuration
+## Features
+- User authentication and authorization system
+- Create, edit, and delete projects
+- Add, update, and remove tasks within projects
+- Assign tasks to team members
+- Track task status and progress
+- Collaborate with team members through comments and notifications
+- Responsive design for optimal viewing on various devices
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Installation
+1. Clone the repository:
